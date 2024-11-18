@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Prashantt3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<style>
+ button
+      { background-color Rgb(200,0,0)
+border: none;
+}
 
-<!---
-Prashantt3/Prashantt3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<button>
+SUBSCRIBE 
+</button>
